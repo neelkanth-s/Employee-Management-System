@@ -2,7 +2,7 @@
 
 ## Demonstration
 
-https://www.youtube.com/watch?v=GNhzqIJ3d20 
+Walkthrough: https://www.youtube.com/watch?v=GNhzqIJ3d20 
 
 ![crud-app](https://user-images.githubusercontent.com/48409548/94567114-8aa5ea80-0284-11eb-99f6-87401b099848.png)
 
